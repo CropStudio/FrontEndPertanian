@@ -68,6 +68,13 @@ export default {
           label: 'Peruntukan',
           align: 'center',
           sortable: true
+        },
+        {
+          name: 'action',
+          field: 'action',
+          label: 'Action',
+          align: 'center',
+          sortable: true
         }
       ],
       data: [],
